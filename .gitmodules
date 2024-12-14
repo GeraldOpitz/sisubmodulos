@@ -1,0 +1,3 @@
+[submodule "prueba_aws"]
+	path = prueba_aws
+	url = https://github.com/GeraldOpitz/prueba_aws
